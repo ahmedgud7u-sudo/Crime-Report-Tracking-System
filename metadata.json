@@ -1,0 +1,6 @@
+{
+  "name": "Crime Report Tracking System",
+  "description": "Thesis-aligned Crime Report Tracking System (CRTS) for law enforcement case management, crime reporting, status tracking, evidence control, statistics, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
